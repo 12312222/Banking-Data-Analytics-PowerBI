@@ -91,13 +91,17 @@ Banking-Data-Analytics-PowerBI
 
 ## 📷 Dashboard Preview
 
-![Customer Insights](Images/Dashboard1.png)
+![Customer Insights](Banking-Data-Analytics-PowerBI
+/Images/Dashboard1.png)
 
-![Transaction Analysis](Images/Dashboard2.png)
+![Transaction Analysis](Banking-Data-Analytics-PowerBI
+/Images/Dashboard2.png)
 
-![Revenue Analysis](Images/Dashboard3.png)
+![Revenue Analysis](Banking-Data-Analytics-PowerBI
+/Images/Dashboard3.png)
 
-![Trend Analysis](Images/Dashboard4.png)
+![Trend Analysis](Banking-Data-Analytics-PowerBI
+/Images/Dashboard4.png)
 
 ---
 
