@@ -93,11 +93,6 @@ Banking-Data-Analytics-PowerBI
 
 ![Customer Insights](Banking-Customer-Analytics-PowerBI/Images/DashBoard1.png)
 
-![Transaction Analysis](Banking-Customer-Analytics-PowerBI/Images/DashBoard2.png)
-
-![Revenue Analysis](Banking-Customer-Analytics-PowerBI/Images/DashBoard3.png)
-
-![Trend Analysis](Banking-Customer-Analytics-PowerBI/Images/DashBoard4.png)
 
 ---
 
